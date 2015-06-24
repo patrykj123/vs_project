@@ -1,0 +1,4 @@
+C:\Users\PatrykDev\Documents\vs_project\PierwszaStronaMVC\Extensions\bin\Debug\Extensions.dll
+C:\Users\PatrykDev\Documents\vs_project\PierwszaStronaMVC\Extensions\bin\Debug\Extensions.pdb
+C:\Users\PatrykDev\Documents\vs_project\PierwszaStronaMVC\Extensions\obj\Debug\Extensions.dll
+C:\Users\PatrykDev\Documents\vs_project\PierwszaStronaMVC\Extensions\obj\Debug\Extensions.pdb
